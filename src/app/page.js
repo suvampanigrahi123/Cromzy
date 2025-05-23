@@ -731,7 +731,7 @@ Dummy ipsum dolor sit amet, consectetur adipiscing elit
                 <div><Image src={'mail.svg'} alt='exm' width={25} height={25}/></div>
                 <div className='text-natural-900/80 text-2xl'>Gmail</div>
               </div>
-              <div className='font-bold text-[24px]'>sales@chromezy.com</div>
+              <div className='font-bold text-[20px]'>sales@chromezy.com</div>
             </div>
           </div>
           <div className='bg-[#DBEBFF] rounded-2xl'>
